@@ -1,4 +1,6 @@
 ﻿begin
   println('Скоро Новый год!');
-  print('365')
+  println('365');
+  var x := ReadInteger();
+  print(x*365)
 end.
