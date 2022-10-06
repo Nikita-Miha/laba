@@ -1,3 +1,3 @@
 ﻿begin
-  
-end
+  print('Скоро Новый год!')
+end.
